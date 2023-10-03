@@ -2,8 +2,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/../blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/../blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../blob/output/github-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="../blob/output/github-snake.svg?raw=true" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
