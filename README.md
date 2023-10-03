@@ -2,7 +2,7 @@
 I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisuaki/blob/main/references/joey.gif" />
 -  Dev BackEnd
 -  Gamer passionate, who plays almost everythings;
--  Love to learn new things ( tec related or not);
+-  Love to learn new things ( tech related or not);
 -  Eternal student
 -  Working as freelancer at the moment
 
