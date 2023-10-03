@@ -12,7 +12,7 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitisuaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitisuaki&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mitisuaki/Mitisuaki/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mitisuaki/Mitisuaki/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Mitisuaki/Mitisuaki/blob/output/github-snake-dark.svg" />
