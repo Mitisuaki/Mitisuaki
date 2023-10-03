@@ -9,8 +9,8 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 ##
 <div>
   <a href="https://github.com/Mitisuaki">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitisuaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitisuaki&layout=compact&langs_count=7&theme=dracula"/>
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitisuaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitisuaki&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mitisuaki/Mitisuaki/blob/output/github-snake-dark.svg" />
