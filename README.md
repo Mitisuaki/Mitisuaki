@@ -7,7 +7,7 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 -  Working as freelancer at the moment
 
 ##
-<div>
+<div align="center">
   <a href="https://github.com/Mitisuaki">
   <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitisuaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitisuaki&layout=compact&langs_count=7&theme=dracula"/>
