@@ -1,6 +1,6 @@
 ## Hey
 I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisuaki/blob/main/references/joey.gif" />
--  Dev BackEnd;
+-  Dev Fullstack;
 -  Gamer passionate, who plays almost everythings;
 -  Love to learn new things ( tech related or not);
 -  Eternal student;
@@ -22,9 +22,17 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 ##### Languages and frameworks/libraries:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ##### DataBase:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Beekeeper-black?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMzIuOCAxNDYuMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTMyLjggMTQ2LjI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojRkFEODNCO30KPC9zdHlsZT4KPGc%2BCgk8Zz4KCQk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTIxLjMsMjguMkw3Ny43LDMuMUM3MC42LTEsNjEuOS0xLDU0LjksMy4xTDQzLjUsOS43VjM5djYuN3YyNy41YzAsOC4xLDQuMywxNS43LDExLjQsMTkuOAoJCQljMy41LDIsNy41LDMuMSwxMS40LDMuMXM3LjktMSwxMS40LTMuMWwwLDBjNy4xLTQuMSwxMS40LTExLjYsMTEuNC0xOS44YzAtOC4xLTQuMy0xNS43LTExLjQtMTkuOGwwLDBjLTMuNS0yLTcuNS0zLjEtMTEuNC0zLjEKCQkJVjM2YzMuOSwwLDcuOSwxLDExLjQsMy4xbDEyLjQsNy4yYzcuMSw0LjEsMTEuNCwxMS42LDExLjQsMTkuOHYxNC4zYzAsOC4xLTQuMywxNS43LTExLjQsMTkuOGwtMTIuNCw3LjJjLTMuNSwyLTcuNSwzLjEtMTEuNCwzLjEKCQkJcy03LjktMS0xMS40LTMuMWwtMTIuNC03LjJjLTcuMS00LjEtMTEuNC0xMS42LTExLjQtMTkuOHYtNy4yVjY2VjQ3LjVWMTYuOEwxMS40LDI4LjJDNC4zLDMyLjMsMCwzOS44LDAsNDh2NTAuMwoJCQljMCw4LjEsNC4zLDE1LjcsMTEuNCwxOS44TDU1LDE0My4yYzcuMSw0LjEsMTUuOCw0LjEsMjIuOCwwbDQzLjYtMjUuMWM3LjEtNC4xLDExLjQtMTEuNiwxMS40LTE5LjhWNDgKCQkJQzEzMi43LDM5LjgsMTI4LjMsMzIuMywxMjEuMywyOC4yeiBNNTIuMyw1NS4yYy0xLjMsMS0yLjQsMi4xLTMuNCwzLjN2LTE2bDMuNC0yVjU1LjJ6IE02MSw1MWMtMS4yLDAuMy0yLjMsMC42LTMuNCwxLjFWMzcuNwoJCQljMS4xLTAuNSwyLjMtMC44LDMuNC0xLjFWNTF6Ii8%2BCgk8L2c%2BCjwvZz4KPC9zdmc%2BCg%3D%3D&logoColor=F7DF1E&color=323330)
 
 ##### Tools:
@@ -32,12 +40,7 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-### Skills in progress:
-##### Languages and frameworks/libraries:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Workspace Specs:
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
