@@ -4,6 +4,7 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 -  Passionate gamer who plays almost everything;
 -  Love to learn new things (tech related or not);
 -  Eternal student;
+<br>
 
 ##
 <div align="center">
