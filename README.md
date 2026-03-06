@@ -48,7 +48,7 @@ I'm Miti <img align="right" width="300" src="https://github.com/Mitisuaki/Mitisu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Workspace Specs:
-![GPU](https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX5090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_9_9950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
